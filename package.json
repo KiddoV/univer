@@ -1,0 +1,11 @@
+{
+  "name": "univer",
+  "version": "0.0.1",
+  "description": "This is a joke!",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "KiddoV",
+  "license": "MIT"
+}
